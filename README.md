@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @owais6824
-- 👋 I’m UI UX designer Expert.
-- 👋 Certified in Network Administration.
-- 👋 Web Developer.
-- 👋 I’m currently learning machine learning.
-- 👋 Wordpress Developer. 
-- 👋 C++, Python, PHP, C#, Angular Programmer.
-- 👋 Excellent Commnication skills. 
+🎯 Experienced UI/UX Designer & Full-Stack Developer with a strong background in Agile Scrum, Network Administration, and cross-functional team collaboration.
 
-<!---
-owais6824/owais6824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skilled in Python, C++, PHP, C#, MERN Stack, Django, WordPress, Oracle Forms & Reports, API Integration, and Machine Learning — delivering user-centric, scalable solutions.
+
+✅ Certified Scrum Master | Network Admin
+🗣️ Strong communication | Results-focused | Innovation-driven
+
+Let’s connect and create something impactful! 🚀
+
