@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Awais 👋
 
-**Backend Engineer — Python · Django · PostgreSQL · Docker**
+**Full Stack Engineer — Python · Django · React · SQL · PostgreSQL · Docker**
 
 I build and scale multi-tenant backend systems and REST APIs. I'm the sole architect and engineer of a production, 12-module multi-tenant clinic-management SaaS built on Django, DRF, PostgreSQL, Celery, Redis and React — from system design through containerized deployment.
 
